@@ -7,5 +7,23 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        //ветка 1
+        //ветка 1
+        //ветка 1
+        //ветка 1
+        //ветка 1
+        //ветка 1
+        //ветка 1
+        //ветка 1
+
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
+        //ветка 1.2
     }
 }
