@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         //ветка - 11.3
+        //SECOND PR 2
+        // исправление
         //111111111111111111111111111111111111111111111111111111111fffffffff
     }
 
