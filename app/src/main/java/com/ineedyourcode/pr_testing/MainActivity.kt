@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             val s = R.string.app_name
         }
 
-        //ветка - 11.2
+        //ветка - 11.3
         //111111111111111111111111111111111111111111111111111111111fffffffff
     }
 
