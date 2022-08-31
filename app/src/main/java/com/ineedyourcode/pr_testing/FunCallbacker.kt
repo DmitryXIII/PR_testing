@@ -4,6 +4,7 @@ import java.util.*
 
 class FunCallbacker {
     fun onTimeRequest(callback: FooCallback.FunCallback){
+        val branch13 = ""
         Thread{
             val startTime = Date().time
             Thread.sleep((1000..5000).random().toLong())
